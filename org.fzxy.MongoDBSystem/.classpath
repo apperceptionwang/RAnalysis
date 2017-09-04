@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/Java皮肤包/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb驱动/mongo-java-driver-3.0.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb驱动/mongo-java-driver-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb驱动/mongo-java-driver-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/R语言jar/JRI.jar"/>
+	<classpathentry kind="lib" path="lib/R语言jar/JRIEngine.jar"/>
+	<classpathentry kind="lib" path="lib/R语言jar/REngine.jar"/>
+	<classpathentry kind="lib" path="lib/JSON支持/jacob.jar"/>
+	<classpathentry kind="lib" path="lib/project/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/project/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/project/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/Rserve.jar"/>
+	<classpathentry kind="lib" path="lib/RserveEngine.jar"/>
+	<classpathentry kind="lib" path="lib/Rsession.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
